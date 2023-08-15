@@ -23,6 +23,6 @@
 ### `Database information`
 DB Name -> ami_coding_pari_na
 DB table name -> authentication, khoj
-DB and table also provided to the back-end repository.
+DB and table also provided to the back-end repository location -> src/main/resources/DB Dump20230814.zip
 ### `Note : If you stuck to run the application, feel free to contact with me ibrahimhossaincse@gmail.com 01957225457`
 
